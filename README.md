@@ -88,12 +88,9 @@ def sarsa(env,
 ```
 
 ## OUTPUT:
-<img width="379" height="232" alt="image" src="https://github.com/user-attachments/assets/b9006eb1-6bd9-4030-af32-060007da001c" />
+<img width="933" height="821" alt="image" src="https://github.com/user-attachments/assets/1a99a4d4-925a-4d03-9e65-71974c4863c9" />
 
-<img width="700" height="591" alt="image" src="https://github.com/user-attachments/assets/729f4126-ae6b-45cb-a16f-b19204137312" />
 
-<img width="1511" height="619" alt="image" src="https://github.com/user-attachments/assets/c593e46c-9f58-4232-803b-47a3546bd608" />
-<img width="1494" height="610" alt="image" src="https://github.com/user-attachments/assets/5ab13baf-1e3e-4259-9309-10d8950e54c9" />
 
 
 
